@@ -15,3 +15,9 @@ code {
 p {
   font-size: 0.7rem;
 }
+
+h1 {
+  font-family: "Rampart One", cursive;
+  color: #0c493f;
+  font-size: 4.5rem !important;
+}
